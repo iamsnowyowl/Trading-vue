@@ -5,7 +5,7 @@ import axios from 'axios'
 
 Vue.config.productionTip = false;
 Vue.prototype.$http = axios
-
+// vue.js added
 new Vue({
   router,
   render: h => h(App)
